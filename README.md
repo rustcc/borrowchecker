@@ -1,2 +1,2 @@
-# discurs
-a discuss and IM combined web app in Rust.
+# Borrowchecker.com
+A Rust and Withoutgc site like stackoverflow.com.
